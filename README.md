@@ -4,7 +4,7 @@
 
 # Vue Ui
 
-# [11 React UI Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4)
+# [11 Vue.js UI Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
 ## [iView](https://www.iviewui.com)
 >
 ## [Vuetify](https://vuetifyjs.com)
